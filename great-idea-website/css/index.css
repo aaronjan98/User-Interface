@@ -64,3 +64,46 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+
+body{
+	margin: 30px 70px;
+	/* border: 2px solid grey; */
+}
+#navigation{
+    width: 100%;
+} 
+nav{
+	display: inline-block;
+}
+nav a{
+	color: grey;
+	padding-right: 120px;
+}
+.logo{
+	display: inline-block;
+	padding-left: 50px;
+}
+/*2nd line with "Innovation on Demand and code photo*/
+.secondline{
+	display: inline-block;
+	padding: 10px;
+}
+.first{
+	width: 30px;
+	text-align: center;
+}
+h1{
+	font-size: 6em;
+	text-align: center;
+	display: block;
+}
+#button{
+	display: inline-block;
+	padding: 5px 40px;
+	border: 1px solid black;
+	margin: 20px;
+}
+.secondline img{
+	display: inline-block;
+	width: 100px;
+}
