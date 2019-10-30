@@ -86,24 +86,24 @@ nav a{
 /*2nd line with "Innovation on Demand and code photo*/
 .secondline{
 	display: inline-block;
-	padding: 10px;
 }
 .first{
-	width: 30px;
+	display: inline-block;
+	width: 49%;
 	text-align: center;
 }
 h1{
+	display: inline-block;
 	font-size: 6em;
 	text-align: center;
-	display: block;
 }
 #button{
 	display: inline-block;
-	padding: 5px 40px;
+	padding: 5px 10px;
 	border: 1px solid black;
 	margin: 20px;
 }
-.secondline img{
+#headerImg{
 	display: inline-block;
 	width: 100px;
 }
